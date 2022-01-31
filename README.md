@@ -8,3 +8,8 @@
 4. `normal_gradient.py` 
 5. `steepest_gradient`
 6. `newton_method.py`
+7. `Conjugate gradient`
+8. `DFP_algorithm`
+9. `BFGS_algorithm`
+10. `PSO`: Partical swarm optimization
+11. `Genetic_algorithm`
